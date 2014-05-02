@@ -1,1 +1,3 @@
 Pretty self-explanatory... Feel free to copy and use these, with attribution (CC-BY-SA).
+
+CP1: When I worked in support at Sauce Labs, I would bribe the devs to help with questions by awarding them conceptual CoolPointz™. The CoolPointz™ saga quickly spirals into uncontrolled inflation and catastrophic collapse. But the legend lives on (because I bring it up at every possible opportunity). I went back for a LAN party and brought along some actual, physical CoolPointz™ to share. :)
